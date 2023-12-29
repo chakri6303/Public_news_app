@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Public News App</string>
+    <string name="title_app">Public News App</string>
+    <string-array name="roles_array">
+        <item>User</item>
+        <item>Admin</item>
+    </string-array>
+</resources>
